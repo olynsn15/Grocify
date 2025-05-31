@@ -1,6 +1,6 @@
 # 🛒 GROCIFY - AI Final Project (LA03)
 
-**Grocify** is an AI-powered shopping assistant designed to help users make smarter purchasing decisions. It reduces impulsive buying and optimizes shopping lists by providing **budget tracking**, **personalized product recommendations**, and **real-time spending insights**. With Grocify, users can shop efficiently while maintaining financial discipline.
+**Grocify** is an AI-powered shopping assistant designed to help users make smarter purchasing decisions. It reduces impulsive buying and optimizes shopping lists by providing **budget tracking**, **personalized product recommendations**, and **real-time spending insights**. With Grocify, users can shop efficiently while maintaining financial discipline.<br>
 
 ## 🚀 Features
 
