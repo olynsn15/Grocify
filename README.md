@@ -39,14 +39,15 @@
 ## 📎 Project Structure
 GROCIFY2/
 ├── templates/
-│ └── grocify.html # HTML template for Flask interface
-├── best_train4.pt # Trained YOLOv11 model weights
-├── grocify_flask.py # Flask backend integration script
-├── grocify_gradio.py # Gradio interface script
-├── pytorch-retinanet-master.zip # Additional object detection code (unused backup or reference)
-├── train_huggingface_detr_on_custom_dataset.ipynb # DETR training notebook
-├── train_yolo11_object_detection_on_custom_dataset.ipynb # YOLOv11 training notebook
-└── README.md # Project documentation
+│   └── grocify.html               # HTML template for Flask interface
+├── best_train4.pt                 # Trained YOLOv11 model weights
+├── grocify_flask.py               # Flask backend integration script
+├── grocify_gradio.py              # Gradio interface script
+├── pytorch-retinanet-master.zip  # Additional object detection code (unused backup or reference)
+├── train_huggingface_detr_on_custom_dataset.ipynb  # DETR training notebook
+├── train_yolo11_object_detection_on_custom_dataset.ipynb  # YOLOv11 training notebook
+└── README.md                      # Project documentation
+
 
 ---
 
