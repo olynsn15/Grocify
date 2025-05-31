@@ -50,6 +50,8 @@ GROCIFY2/
 ├── train_yolo11_object_detection_on_custom_dataset.ipynb  # YOLOv11 training notebook
 └── README.md                      # Project documentation
 
+```
+
 
 ## 🔧 Installation & Usage
 
