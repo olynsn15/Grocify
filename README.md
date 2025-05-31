@@ -37,6 +37,7 @@
 ---
 
 ## 📎 Project Structure
+```
 GROCIFY2/
 ├── templates/
 │   └── grocify.html               # HTML template for Flask interface
@@ -47,9 +48,7 @@ GROCIFY2/
 ├── train_huggingface_detr_on_custom_dataset.ipynb  # DETR training notebook
 ├── train_yolo11_object_detection_on_custom_dataset.ipynb  # YOLOv11 training notebook
 └── README.md                      # Project documentation
-
-
----
+```
 
 ## 🔧 Installation & Usage
 
