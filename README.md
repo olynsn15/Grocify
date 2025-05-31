@@ -2,7 +2,7 @@
 
 **Grocify** is an AI-powered shopping assistant designed to help users make smarter purchasing decisions. It reduces impulsive buying and optimizes shopping lists by providing **budget tracking**, **personalized product recommendations**, and **real-time spending insights**. With Grocify, users can shop efficiently while maintaining financial discipline.
 
----
+
 
 ## 🚀 Features
 
@@ -12,7 +12,7 @@
 - 🌐 **HTML integration** using the **Flask** web framework
 - 🖥️ Simple and interactive UI built with **Gradio**
 
----
+
 
 ## 📊 Model Performance
 
@@ -24,7 +24,7 @@
 
 > 🔗 Explore the model: [Roboflow Project Page](https://universe.roboflow.com/lyn15/ai_grocify)
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -34,10 +34,11 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white)
 
----
+
 
 ## 📎 Project Structure
 ```
+
 GROCIFY2/
 ├── templates/
 │   └── grocify.html               # HTML template for Flask interface
@@ -48,7 +49,7 @@ GROCIFY2/
 ├── train_huggingface_detr_on_custom_dataset.ipynb  # DETR training notebook
 ├── train_yolo11_object_detection_on_custom_dataset.ipynb  # YOLOv11 training notebook
 └── README.md                      # Project documentation
-```
+
 
 ## 🔧 Installation & Usage
 
