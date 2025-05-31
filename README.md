@@ -2,8 +2,6 @@
 
 **Grocify** is an AI-powered shopping assistant designed to help users make smarter purchasing decisions. It reduces impulsive buying and optimizes shopping lists by providing **budget tracking**, **personalized product recommendations**, and **real-time spending insights**. With Grocify, users can shop efficiently while maintaining financial discipline.
 
-
-
 ## 🚀 Features
 
 - 🧠 Built with **YOLOv11**, trained on a custom groceries dataset  
