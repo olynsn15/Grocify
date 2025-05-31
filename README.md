@@ -20,8 +20,8 @@
 | **Precision**| 71.3%  |
 | **Recall**   | 54.4%  |
 
-> 🔗 Explore the model: [Roboflow Project Page](https://universe.roboflow.com/lyn15/ai_grocify)<br><br>
-
+> 🔗 Explore the model: [Roboflow Project Page](https://universe.roboflow.com/lyn15/ai_grocify)
+<br><br>
 
 
 ## 🧰 Tech Stack
@@ -49,7 +49,7 @@ GROCIFY2/
 └── README.md                      # Project documentation
 
 ```
-
+<br><br>
 
 ## 🔧 Installation & Usage
 
@@ -65,3 +65,4 @@ pip install -r requirements.txt
 
 # Run the Flask app
 python app.py
+<br><br>
