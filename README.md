@@ -8,7 +8,7 @@
   > [Dataset Credit](https://universe.roboflow.com/ingredients-wzqqk/ingredients-ctbug)
 - 📷 **Webcam integration** for real-time grocery recognition
 - 🌐 **HTML integration** using the **Flask** web framework
-- 🖥️ Simple and interactive UI built with **Gradio**
+- 🖥️ Simple and interactive UI built with **Gradio**<br><br>
 
 
 
@@ -20,7 +20,7 @@
 | **Precision**| 71.3%  |
 | **Recall**   | 54.4%  |
 
-> 🔗 Explore the model: [Roboflow Project Page](https://universe.roboflow.com/lyn15/ai_grocify)
+> 🔗 Explore the model: [Roboflow Project Page](https://universe.roboflow.com/lyn15/ai_grocify)<br><br>
 
 
 
@@ -30,7 +30,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?logo=gradio&logoColor=white)<br><br>
 
 
 
