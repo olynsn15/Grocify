@@ -1,18 +1,19 @@
-# 🛒 GROCIFY - AI Final Project (LA03)
+# GROCIFY
+## AI Final Project (LA03)
 
 **Grocify** is an AI-powered shopping assistant designed to help users make smarter purchasing decisions. It reduces impulsive buying and optimizes shopping lists by providing **budget tracking**, **personalized product recommendations**, and **real-time spending insights**. With Grocify, users can shop efficiently while maintaining financial discipline.<br><br>
 
-## 🚀 Features
+## Features
 
-- 🧠 Built with **YOLOv11**, trained on a custom groceries dataset  
+- Built with **YOLOv11**, trained on a custom groceries dataset  
   > [Dataset Credit](https://universe.roboflow.com/ingredients-wzqqk/ingredients-ctbug)
-- 📷 **Webcam integration** for real-time grocery recognition
-- 🌐 **HTML integration** using the **Flask** web framework
-- 🖥️ Simple and interactive UI built with **Gradio**<br><br>
+- **Webcam integration** for real-time grocery recognition
+- **HTML integration** using the **Flask** web framework
+- Simple and interactive UI built with **Gradio**<br><br>
 
 
 
-## 📊 Model Performance
+## Model Performance
 
 | Metric       | Value  |
 |--------------|--------|
@@ -24,7 +25,7 @@
 <br><br>
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
@@ -34,7 +35,7 @@
 
 
 
-## 📎 Project Structure
+## Project Structure
 ```
 
 GROCIFY2/
@@ -51,9 +52,9 @@ GROCIFY2/
 ```
 <br><br>
 
-## 🔧 Installation & Usage
+## Installation & Usage
 
-> ⚠️ Ensure you have **Python 3.8+** installed.
+> Ensure you have **Python 3.8+** installed.
 
 ```bash
 # Clone the repository
