@@ -1,13 +1,13 @@
 # GROCIFY 🍎🛒
 ### AI Final Project (LA03)
 
-**Grocify** is an AI-powered shopping assistant designed to help users make smarter purchasing decisions. It reduces impulsive buying and optimizes shopping lists by providing **budget tracking**, **personalized product recommendations**, and **real-time spending insights**. With Grocify, users can shop efficiently while maintaining financial discipline.
+**Grocify** is an **AI-powered grocery stock detection tool** designed to help users keep track of their household essentials with ease. Instead of relying on memory or manual checklists, Grocify intelligently monitors your grocery items and notifies you when stocks are running low. By making stock awareness simple and automated, Grocify helps prevent overbuying, waste, and shortages—empowering users to shop smarter, save money, and manage their groceries effortlessly.
 <br><br>
 
 ## Features
 - Built with **YOLOv11**, trained on a custom groceries dataset  
-  > [Dataset Credit](https://universe.roboflow.com/ingredients-wzqqk/ingredients-ctbug)
-- **Webcam integration** for real-time grocery recognition
+  > [Dataset Credit : Ingredients Computer Vision Dataset by Ingredients](https://universe.roboflow.com/ingredients-wzqqk/ingredients-ctbug)
+- **Webcam integration** for real-time grocery stock recognition
 - **HTML integration** using the **Flask** web framework
 - Simple and interactive UI built with **Gradio**
 <br><br>
@@ -26,7 +26,7 @@
 | **mAP**      | 61.7%  |
 | **Precision**| 71.3%  |
 | **Recall**   | 54.4%  |
-> Explore the model: [Roboflow Project Page](https://universe.roboflow.com/lyn15/ai_grocify)
+> Explore the model : [Roboflow Project Page](https://universe.roboflow.com/lyn15/ai_grocify)
 <br>
 
 ## Project Structure
@@ -45,17 +45,8 @@ Grocify/
 ```
 <br>
 
-## Installation & Usage
-> Ensure you have **Python 3.8+** installed.
+## Notes
 ```
-# Clone the repository
-git clone https://github.com/your-username/grocify.git
-cd grocify
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Flask app
-python app.py
+Grocify is a semester-long final project developed for the Artificial Intelligence course
 ```
 <br><br>
