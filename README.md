@@ -48,6 +48,6 @@ Grocify/
 ```
 - Dataset Credit : Ingredients Computer Vision Dataset by Ingredients (https://universe.roboflow.com/ingredients-wzqqk/ingredients-ctbug)
 
-Grocify is a semester-long final project developed for the Artificial Intelligence course
+Grocify is a semester-long final group project developed for the Artificial Intelligence course
 ```
 <br><br>
