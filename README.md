@@ -6,7 +6,6 @@
 
 ## Features
 - Built with **YOLOv11**, trained on a custom groceries dataset  
-  > [Dataset Credit : Ingredients Computer Vision Dataset by Ingredients](https://universe.roboflow.com/ingredients-wzqqk/ingredients-ctbug)
 - **Webcam integration** for real-time grocery stock recognition
 - **HTML integration** using the **Flask** web framework
 - Simple and interactive UI built with **Gradio**
@@ -47,6 +46,8 @@ Grocify/
 
 ## Notes
 ```
+- Dataset Credit : Ingredients Computer Vision Dataset by Ingredients (https://universe.roboflow.com/ingredients-wzqqk/ingredients-ctbug)
+
 Grocify is a semester-long final project developed for the Artificial Intelligence course
 ```
 <br><br>
